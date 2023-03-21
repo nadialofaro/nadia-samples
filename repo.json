@@ -1,11 +1,11 @@
 
 [
-{ "url":"Thump.wav", "type":"audio","bank":"nadia-samples","n":0},
+{ "url":"Thump.wav", "type":"audio","bank":"thump","n":0},
 { "url":"apple_0.wav", "type":"audio","bank":"apples","n":0},
 { "url":"apple_1.wav", "type":"audio","bank":"apples","n":1},
 { "url":"apple_2.wav", "type":"audio","bank":"apples","n":2},
 { "url":"apple_3.wav", "type":"audio","bank":"apples","n":3},
-{ "url":"oh.wav", "type":"audio","bank":"nadia-samples","n":1},
-{ "url":"wa.wav", "type":"audio","bank":"nadia-samples","n":0},
-{ "url":"well.wav", "type":"audio","bank":"nadia-samples","n":7}
+{ "url":"oh.wav", "type":"audio","bank":"oh","n":0},
+{ "url":"wa.wav", "type":"audio","bank":"wa","n":0},
+{ "url":"well.wav", "type":"audio","bank":"well","n":0}
 ]
