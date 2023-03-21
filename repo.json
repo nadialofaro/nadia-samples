@@ -7,5 +7,5 @@
 { "url":"apple_3.wav", "type":"audio","bank":"apples","n":3},
 { "url":"oh.wav", "type":"audio","bank":"nadia-samples","n":1},
 { "url":"wa.wav", "type":"audio","bank":"nadia-samples","n":0},
-{ "url":"well.wav", "type":"audio","bank":"nadia-samples","n":7},
+{ "url":"well.wav", "type":"audio","bank":"nadia-samples","n":7}
 ]
