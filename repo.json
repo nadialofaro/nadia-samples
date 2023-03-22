@@ -7,5 +7,10 @@
 { "url":"apple_3.wav", "type":"audio","bank":"apples","n":3},
 { "url":"oh.wav", "type":"audio","bank":"oh","n":0},
 { "url":"wa.wav", "type":"audio","bank":"wa","n":0},
+{ "url":"wa_1.wav", "type":"audio","bank":"wa","n":1},
+{ "url":"wa_2.wav", "type":"audio","bank":"wa","n":2},
+{ "url":"wa_3.wav", "type":"audio","bank":"wa","n":3},
+{ "url":"wa_4.wav", "type":"audio","bank":"wa","n":4},
+{ "url":"wa_5.wav", "type":"audio","bank":"wa","n":5},
 { "url":"well.wav", "type":"audio","bank":"well","n":0}
 ]
