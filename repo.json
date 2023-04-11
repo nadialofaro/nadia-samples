@@ -21,7 +21,7 @@
 { "url":"wa_3.wav", "type":"audio","bank":"wa","n":3},
 { "url":"wa_4.wav", "type":"audio","bank":"wa","n":4},
 { "url":"wa_5.wav", "type":"audio","bank":"wa","n":5},
-{ "url":"well.wav", "type":"audio","bank":"well","n":0}
+{ "url":"well.wav", "type":"audio","bank":"well","n":0},
 { "url":"bottle.wav", "type":"audio","bank":"bottle","n":0},
 { "url":"stream.wav", "type":"audio","bank":"stream","n":0},
 { "url":"clink.wav", "type":"audio","bank":"clink","n":0},
