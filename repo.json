@@ -27,5 +27,30 @@
 { "url":"clink.wav", "type":"audio","bank":"clink","n":0},
 { "url":"clink2.wav", "type":"audio","bank":"clink","n":1},
 { "url":"tick.wav", "type":"audio","bank":"tick","n":0},
-{ "url":"tick2.wav", "type":"audio","bank":"tick","n":1}
+{ "url":"tick2.wav", "type":"audio","bank":"tick","n":1},
+
+{ "url":"beam.wav", "type":"audio","bank":"beam","n":0},
+{ "url":"borealis.wav", "type":"audio","bank":"borealis","n":0},
+{ "url":"collapse.wav", "type":"audio","bank":"collapse","n":0},
+{ "url":"comet.wav", "type":"audio","bank":"comet","n":0},
+{ "url":"confession.wav", "type":"audio","bank":"confession","n":0},
+{ "url":"cries.wav", "type":"audio","bank":"cries","n":0},
+{ "url":"debris.wav", "type":"audio","bank":"debris","n":0},
+{ "url":"dialect.wav", "type":"audio","bank":"dialect","n":0},
+{ "url":"dissonance.wav", "type":"audio","bank":"dissonance","n":0},
+{ "url":"drift.wav", "type":"audio","bank":"drift","n":0},
+{ "url":"event.wav", "type":"audio","bank":"event","n":0},
+{ "url":"event2.wav", "type":"audio","bank":"event","n":1},
+{ "url":"event3.wav", "type":"audio","bank":"event","n":2},
+{ "url":"frozen.wav", "type":"audio","bank":"frozen","n":0},
+{ "url":"horizon.wav", "type":"audio","bank":"horizon","n":0},
+{ "url":"ion.wav", "type":"audio","bank":"ion","n":0},
+{ "url":"radio.wav", "type":"audio","bank":"radio","n":0},
+{ "url":"whisper.wav", "type":"audio","bank":"whisper","n":0}
+
+
+
+
+
+  
 ]
